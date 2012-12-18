@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/src/main/java/opennlp/uima/chunker
+END
+Chunker.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/src/main/java/opennlp/uima/chunker/Chunker.java
+END
+ChunkerTrainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/src/main/java/opennlp/uima/chunker/ChunkerTrainer.java
+END
+ChunkerModelResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/src/main/java/opennlp/uima/chunker/ChunkerModelResource.java
+END
+ChunkerModelResourceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/src/main/java/opennlp/uima/chunker/ChunkerModelResourceImpl.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/src/main/java/opennlp/uima/chunker/package.html
+END

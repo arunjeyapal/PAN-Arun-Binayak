@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1334922/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/coref
+END
+CorefModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/coref/CorefModel.java
+END
+CorefSample.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1324748/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/coref/CorefSample.java
+END
+TreebankLinker.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1324748/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/coref/TreebankLinker.java
+END
+DiscourseModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/coref/DiscourseModel.java
+END
+CorefTrainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1334922/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/coref/CorefTrainer.java
+END
+Linker.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/coref/Linker.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/coref/package-info.java
+END
+CorefSampleDataStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1306302/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/coref/CorefSampleDataStream.java
+END
+AbstractLinker.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/coref/AbstractLinker.java
+END
+DefaultLinker.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/coref/DefaultLinker.java
+END
+LinkerMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/coref/LinkerMode.java
+END
+DiscourseElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/coref/DiscourseElement.java
+END
+DiscourseEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/coref/DiscourseEntity.java
+END

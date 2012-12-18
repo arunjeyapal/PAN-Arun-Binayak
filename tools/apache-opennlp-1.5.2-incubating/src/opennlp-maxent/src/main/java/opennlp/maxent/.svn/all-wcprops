@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/maxent
+END
+BasicEventStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/maxent/BasicEventStream.java
+END
+GISModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/maxent/GISModel.java
+END
+RealBasicEventStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/maxent/RealBasicEventStream.java
+END
+GISTrainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/maxent/GISTrainer.java
+END
+GISFormat
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/maxent/GISFormat
+END
+Evalable.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/maxent/Evalable.java
+END
+ModelReplacementManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/maxent/ModelReplacementManager.java
+END
+DoubleStringPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/maxent/DoubleStringPair.java
+END
+ModelApplier.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/maxent/ModelApplier.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/maxent/package.html
+END
+Counter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/maxent/Counter.java
+END
+PlainTextByLineDataStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/maxent/PlainTextByLineDataStream.java
+END
+GIS.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/maxent/GIS.java
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/maxent/Main.java
+END
+BinToAscii.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/maxent/BinToAscii.java
+END
+DataStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/maxent/DataStream.java
+END
+ModelTrainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/maxent/ModelTrainer.java
+END
+TrainEval.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/maxent/TrainEval.java
+END
+AllEnglishAffixes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/maxent/AllEnglishAffixes.txt
+END
+IntegerPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/maxent/IntegerPool.java
+END
+ModelSetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/maxent/ModelSetter.java
+END
+ModelDomain.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/maxent/ModelDomain.java
+END
+DomainToModelMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/maxent/DomainToModelMap.java
+END
+ContextGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/maxent/ContextGenerator.java
+END
+BasicContextGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/maxent/BasicContextGenerator.java
+END

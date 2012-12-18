@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1328283/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/tokenize
+END
+DefaultTokenContextGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1305900/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/tokenize/DefaultTokenContextGenerator.java
+END
+TokenizerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1309039/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/tokenize/TokenizerFactory.java
+END
+DictionaryDetokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1328283/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/tokenize/DictionaryDetokenizer.java
+END
+WhitespaceTokenStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/tokenize/WhitespaceTokenStream.java
+END
+TokenizerEvaluationMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/tokenize/TokenizerEvaluationMonitor.java
+END
+Tokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/tokenize/Tokenizer.java
+END
+DetokenizationDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1308924/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/tokenize/DetokenizationDictionary.java
+END
+TokenSample.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1308924/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/tokenize/TokenSample.java
+END
+Detokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1328283/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/tokenize/Detokenizer.java
+END
+SimpleTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/tokenize/SimpleTokenizer.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/tokenize/package-info.java
+END
+TokenizerStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/tokenize/TokenizerStream.java
+END
+WhitespaceTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/tokenize/WhitespaceTokenizer.java
+END
+TokenizerCrossValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1304680/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/tokenize/TokenizerCrossValidator.java
+END
+TokenizerModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1304678/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/tokenize/TokenizerModel.java
+END
+TokenizerME.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1304678/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/tokenize/TokenizerME.java
+END
+TokenContextGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/tokenize/TokenContextGenerator.java
+END
+TokenizerEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/tokenize/TokenizerEvaluator.java
+END
+TokSpanEventStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/tokenize/TokSpanEventStream.java
+END
+TokenSampleStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/tokenize/TokenSampleStream.java
+END
+AbstractTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/tokenize/AbstractTokenizer.java
+END

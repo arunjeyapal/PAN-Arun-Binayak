@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1308735/opennlp/trunk/opennlp-tools/src/test/resources/opennlp/tools/formats
+END
+conllx.sample
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/resources/opennlp/tools/formats/conllx.sample
+END
+conll2002-es.sample
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/resources/opennlp/tools/formats/conll2002-es.sample
+END
+conll2002-nl.sample
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/resources/opennlp/tools/formats/conll2002-nl.sample
+END
+conll2003-de.sample
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/resources/opennlp/tools/formats/conll2003-de.sample
+END
+leipzig-en.sample
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/resources/opennlp/tools/formats/leipzig-en.sample
+END
+ad.sample
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1304169/opennlp/trunk/opennlp-tools/src/test/resources/opennlp/tools/formats/ad.sample
+END
+census90.sample
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/resources/opennlp/tools/formats/census90.sample
+END
+conll2003-en.sample
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/resources/opennlp/tools/formats/conll2003-en.sample
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/parser/treeinsert
+END
+AttachContextGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/parser/treeinsert/AttachContextGenerator.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/parser/treeinsert/package-info.java
+END
+CheckContextGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/parser/treeinsert/CheckContextGenerator.java
+END
+ParserEventStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/parser/treeinsert/ParserEventStream.java
+END
+BuildContextGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/parser/treeinsert/BuildContextGenerator.java
+END
+Parser.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/parser/treeinsert/Parser.java
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1292589/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/model
+END
+ClassSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/model/ClassSerializer.java
+END
+DictionarySerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/model/DictionarySerializer.java
+END
+ModelType.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/model/ModelType.java
+END
+FeatureGeneratorFactorySerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/model/FeatureGeneratorFactorySerializer.java
+END
+PropertiesSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/model/PropertiesSerializer.java
+END
+ArtifactSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/model/ArtifactSerializer.java
+END
+GenericModelSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/model/GenericModelSerializer.java
+END
+ArtifactProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1292589/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/model/ArtifactProvider.java
+END
+UncloseableInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/model/UncloseableInputStream.java
+END
+BaseModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1292589/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/model/BaseModel.java
+END
+ModelUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/model/ModelUtil.java
+END

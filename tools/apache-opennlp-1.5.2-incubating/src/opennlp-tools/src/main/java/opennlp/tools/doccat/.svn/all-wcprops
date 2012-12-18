@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1330792/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/doccat
+END
+DocumentCategorizerME.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1330792/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/doccat/DocumentCategorizerME.java
+END
+BagOfWordsFeatureGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/doccat/BagOfWordsFeatureGenerator.java
+END
+DocumentCategorizerEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/doccat/DocumentCategorizerEvaluator.java
+END
+DocumentSample.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/doccat/DocumentSample.java
+END
+FeatureGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/doccat/FeatureGenerator.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/doccat/package-info.java
+END
+NGramFeatureGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/doccat/NGramFeatureGenerator.java
+END
+DocumentCategorizerContextGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/doccat/DocumentCategorizerContextGenerator.java
+END
+DocumentCategorizerEventStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/doccat/DocumentCategorizerEventStream.java
+END
+DocumentSampleStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/doccat/DocumentSampleStream.java
+END
+DocumentCategorizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/doccat/DocumentCategorizer.java
+END
+DoccatModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/doccat/DoccatModel.java
+END

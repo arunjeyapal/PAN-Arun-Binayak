@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1340820/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/postag
+END
+TrainingParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1335730/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/postag/TrainingParams.java
+END
+POSTaggerConverterTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/postag/POSTaggerConverterTool.java
+END
+POSEvaluationErrorListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/postag/POSEvaluationErrorListener.java
+END
+POSModelLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/postag/POSModelLoader.java
+END
+POSTaggerCrossValidatorTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1340820/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/postag/POSTaggerCrossValidatorTool.java
+END
+POSTaggerFineGrainedReportListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1309595/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/postag/POSTaggerFineGrainedReportListener.java
+END
+POSTaggerTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/postag/POSTaggerTool.java
+END
+POSTaggerEvaluatorTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1294201/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/postag/POSTaggerEvaluatorTool.java
+END
+POSTaggerTrainerTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1340820/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/postag/POSTaggerTrainerTool.java
+END

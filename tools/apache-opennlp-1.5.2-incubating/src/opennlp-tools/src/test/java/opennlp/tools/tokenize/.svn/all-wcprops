@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1328285/opennlp/trunk/opennlp-tools/src/test/java/opennlp/tools/tokenize
+END
+TokenSampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1308924/opennlp/trunk/opennlp-tools/src/test/java/opennlp/tools/tokenize/TokenSampleTest.java
+END
+TokenizerFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1304678/opennlp/trunk/opennlp-tools/src/test/java/opennlp/tools/tokenize/TokenizerFactoryTest.java
+END
+SimpleTokenizerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/java/opennlp/tools/tokenize/SimpleTokenizerTest.java
+END
+WhitespaceTokenizerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/java/opennlp/tools/tokenize/WhitespaceTokenizerTest.java
+END
+TokenizerTestUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/java/opennlp/tools/tokenize/TokenizerTestUtil.java
+END
+DictionaryDetokenizerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1328285/opennlp/trunk/opennlp-tools/src/test/java/opennlp/tools/tokenize/DictionaryDetokenizerTest.java
+END
+TokenizerModelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/java/opennlp/tools/tokenize/TokenizerModelTest.java
+END
+TokenizerMETest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/java/opennlp/tools/tokenize/TokenizerMETest.java
+END
+DetokenizationDictionaryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1308924/opennlp/trunk/opennlp-tools/src/test/java/opennlp/tools/tokenize/DetokenizationDictionaryTest.java
+END
+TokSpanEventStreamTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/java/opennlp/tools/tokenize/TokSpanEventStreamTest.java
+END
+TokenizerEvaluatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/java/opennlp/tools/tokenize/TokenizerEvaluatorTest.java
+END
+DummyTokenizerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1304647/opennlp/trunk/opennlp-tools/src/test/java/opennlp/tools/tokenize/DummyTokenizerFactory.java
+END
+TokenSampleStreamTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/java/opennlp/tools/tokenize/TokenSampleStreamTest.java
+END

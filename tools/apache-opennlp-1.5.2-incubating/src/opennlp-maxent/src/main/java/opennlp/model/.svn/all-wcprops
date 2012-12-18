@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/model
+END
+BinaryFileDataReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/model/BinaryFileDataReader.java
+END
+ComparableEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/model/ComparableEvent.java
+END
+TwoPassDataIndexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/model/TwoPassDataIndexer.java
+END
+EvalParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/model/EvalParameters.java
+END
+TrainUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/model/TrainUtil.java
+END
+AbstractDataIndexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/model/AbstractDataIndexer.java
+END
+DynamicEvalParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/model/DynamicEvalParameters.java
+END
+OnePassDataIndexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/model/OnePassDataIndexer.java
+END
+AbstractEventStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/model/AbstractEventStream.java
+END
+Event.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/model/Event.java
+END
+OnePassRealValueDataIndexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/model/OnePassRealValueDataIndexer.java
+END
+IndexHashTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/model/IndexHashTable.java
+END
+SequenceStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/model/SequenceStream.java
+END
+PlainTextFileDataReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/model/PlainTextFileDataReader.java
+END
+ComparablePredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/model/ComparablePredicate.java
+END
+UniformPrior.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/model/UniformPrior.java
+END
+RealValueFileEventStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/model/RealValueFileEventStream.java
+END
+SequenceStreamEventStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/model/SequenceStreamEventStream.java
+END
+AbstractModelReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/model/AbstractModelReader.java
+END
+Sequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/model/Sequence.java
+END
+MaxentModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/model/MaxentModel.java
+END
+GenericModelReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/model/GenericModelReader.java
+END
+AbstractModelWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/model/AbstractModelWriter.java
+END
+ObjectDataReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/model/ObjectDataReader.java
+END
+AbstractModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/model/AbstractModel.java
+END
+Context.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/model/Context.java
+END
+HashSumEventStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/model/HashSumEventStream.java
+END
+DataIndexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/model/DataIndexer.java
+END
+EventCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/model/EventCollector.java
+END
+EventCollectorAsStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/model/EventCollectorAsStream.java
+END
+ListEventStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/model/ListEventStream.java
+END
+GenericModelWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/model/GenericModelWriter.java
+END
+Prior.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/model/Prior.java
+END
+DataReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/model/DataReader.java
+END
+FileEventStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/model/FileEventStream.java
+END
+EventStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/model/EventStream.java
+END
+MutableContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/model/MutableContext.java
+END

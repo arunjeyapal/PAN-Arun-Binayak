@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/resources/opennlp/tools/chunker
+END
+detailedOutput.txt
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/resources/opennlp/tools/chunker/detailedOutput.txt
+END
+test.txt
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/resources/opennlp/tools/chunker/test.txt
+END
+output.txt
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/resources/opennlp/tools/chunker/output.txt
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/resources/opennlp/tools/parser
+END
+parser.train
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/resources/opennlp/tools/parser/parser.train
+END
+test.parse
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/resources/opennlp/tools/parser/test.parse
+END
+en_head_rules
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/resources/opennlp/tools/parser/en_head_rules
+END

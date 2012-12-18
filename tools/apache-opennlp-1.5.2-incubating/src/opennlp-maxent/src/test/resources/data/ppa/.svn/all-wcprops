@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/test/resources/data/ppa
+END
+test
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/test/resources/data/ppa/test
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/test/resources/data/ppa/NOTICE
+END
+bitstrings
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/test/resources/data/ppa/bitstrings
+END
+devset
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/test/resources/data/ppa/devset
+END
+training
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/test/resources/data/ppa/training
+END

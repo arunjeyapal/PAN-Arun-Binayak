@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/src/main/java/opennlp/uima/tokenize
+END
+TokenizerTrainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/src/main/java/opennlp/uima/tokenize/TokenizerTrainer.java
+END
+TokenizerModelResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/src/main/java/opennlp/uima/tokenize/TokenizerModelResource.java
+END
+SimpleTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/src/main/java/opennlp/uima/tokenize/SimpleTokenizer.java
+END
+TokenizerModelResourceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/src/main/java/opennlp/uima/tokenize/TokenizerModelResourceImpl.java
+END
+WhitespaceTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/src/main/java/opennlp/uima/tokenize/WhitespaceTokenizer.java
+END
+Tokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/src/main/java/opennlp/uima/tokenize/Tokenizer.java
+END
+AbstractTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/src/main/java/opennlp/uima/tokenize/AbstractTokenizer.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/src/main/java/opennlp/uima/tokenize/package.html
+END

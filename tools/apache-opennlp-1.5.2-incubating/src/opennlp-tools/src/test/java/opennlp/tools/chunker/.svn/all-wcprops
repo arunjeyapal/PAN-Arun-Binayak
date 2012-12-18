@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/java/opennlp/tools/chunker
+END
+ChunkerMETest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/java/opennlp/tools/chunker/ChunkerMETest.java
+END
+ChunkerEvaluatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/java/opennlp/tools/chunker/ChunkerEvaluatorTest.java
+END
+DummyChunkSampleStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/java/opennlp/tools/chunker/DummyChunkSampleStream.java
+END
+ChunkSampleStreamTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/java/opennlp/tools/chunker/ChunkSampleStreamTest.java
+END
+ChunkerDetailedFMeasureListenerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/java/opennlp/tools/chunker/ChunkerDetailedFMeasureListenerTest.java
+END
+ChunkSampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/java/opennlp/tools/chunker/ChunkSampleTest.java
+END
+DummyChunker.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/java/opennlp/tools/chunker/DummyChunker.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1334912/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/parser/chunking
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/parser/chunking/package-info.java
+END
+CheckContextGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/parser/chunking/CheckContextGenerator.java
+END
+ParserEventStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/parser/chunking/ParserEventStream.java
+END
+BuildContextGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1334912/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/parser/chunking/BuildContextGenerator.java
+END
+Parser.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/parser/chunking/Parser.java
+END

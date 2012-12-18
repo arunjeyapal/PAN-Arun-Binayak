@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/resources/opennlp/tools/postag
+END
+AnnotatedSentences.txt
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/resources/opennlp/tools/postag/AnnotatedSentences.txt
+END
+TagDictionaryWithoutCaseAttribute.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/resources/opennlp/tools/postag/TagDictionaryWithoutCaseAttribute.xml
+END
+TagDictionaryCaseSensitive.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/resources/opennlp/tools/postag/TagDictionaryCaseSensitive.xml
+END
+TagDictionaryCaseInsensitive.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/resources/opennlp/tools/postag/TagDictionaryCaseInsensitive.xml
+END

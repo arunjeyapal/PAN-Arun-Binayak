@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/featuregen
+END
+InSpanGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/featuregen/InSpanGenerator.java
+END
+FeatureGeneratorUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/featuregen/FeatureGeneratorUtil.java
+END
+AdditionalContextFeatureGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/featuregen/AdditionalContextFeatureGenerator.java
+END
+TokenPatternFeatureGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/featuregen/TokenPatternFeatureGenerator.java
+END
+FeatureGeneratorAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/featuregen/FeatureGeneratorAdapter.java
+END
+TokenFeatureGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/featuregen/TokenFeatureGenerator.java
+END
+CharacterNgramFeatureGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/featuregen/CharacterNgramFeatureGenerator.java
+END
+StringPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/featuregen/StringPattern.java
+END
+FastTokenClassFeatureGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/featuregen/FastTokenClassFeatureGenerator.java
+END
+OutcomePriorFeatureGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/featuregen/OutcomePriorFeatureGenerator.java
+END
+AggregatedFeatureGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/featuregen/AggregatedFeatureGenerator.java
+END
+GeneratorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/featuregen/GeneratorFactory.java
+END
+PrefixFeatureGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/featuregen/PrefixFeatureGenerator.java
+END
+AdaptiveFeatureGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/featuregen/AdaptiveFeatureGenerator.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/featuregen/package-info.java
+END
+FeatureGeneratorResourceProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/featuregen/FeatureGeneratorResourceProvider.java
+END
+BigramNameFeatureGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/featuregen/BigramNameFeatureGenerator.java
+END
+SentenceFeatureGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/featuregen/SentenceFeatureGenerator.java
+END
+SuffixFeatureGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/featuregen/SuffixFeatureGenerator.java
+END
+DictionaryFeatureGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/featuregen/DictionaryFeatureGenerator.java
+END
+TokenClassFeatureGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/featuregen/TokenClassFeatureGenerator.java
+END
+FeatureGeneratorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/featuregen/FeatureGeneratorFactory.java
+END
+CachedFeatureGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/featuregen/CachedFeatureGenerator.java
+END
+WindowFeatureGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/featuregen/WindowFeatureGenerator.java
+END
+PreviousMapFeatureGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/featuregen/PreviousMapFeatureGenerator.java
+END

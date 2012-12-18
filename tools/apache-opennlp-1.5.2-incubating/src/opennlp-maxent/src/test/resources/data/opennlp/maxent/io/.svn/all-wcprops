@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/test/resources/data/opennlp/maxent/io
+END
+rvfes-bug-data-broken.txt
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/test/resources/data/opennlp/maxent/io/rvfes-bug-data-broken.txt
+END
+rvfes-bug-data-ok.txt
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/test/resources/data/opennlp/maxent/io/rvfes-bug-data-ok.txt
+END

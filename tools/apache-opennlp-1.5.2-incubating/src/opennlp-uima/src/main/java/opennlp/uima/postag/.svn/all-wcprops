@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/src/main/java/opennlp/uima/postag
+END
+POSTaggerTrainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/src/main/java/opennlp/uima/postag/POSTaggerTrainer.java
+END
+POSModelResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/src/main/java/opennlp/uima/postag/POSModelResource.java
+END
+POSTagger.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/src/main/java/opennlp/uima/postag/POSTagger.java
+END
+POSModelResourceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/src/main/java/opennlp/uima/postag/POSModelResourceImpl.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/src/main/java/opennlp/uima/postag/package.html
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/maxent/io
+END
+PlainTextGISModelReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/maxent/io/PlainTextGISModelReader.java
+END
+SuffixSensitiveGISModelWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/maxent/io/SuffixSensitiveGISModelWriter.java
+END
+GISModelWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/maxent/io/GISModelWriter.java
+END
+BinToAscii.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/maxent/io/BinToAscii.java
+END
+BinaryGISModelWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/maxent/io/BinaryGISModelWriter.java
+END
+SuffixSensitiveGISModelReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/maxent/io/SuffixSensitiveGISModelReader.java
+END
+GISModelReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/maxent/io/GISModelReader.java
+END
+ObjectGISModelWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/maxent/io/ObjectGISModelWriter.java
+END
+PlainTextGISModelWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/maxent/io/PlainTextGISModelWriter.java
+END
+PooledGISModelReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/maxent/io/PooledGISModelReader.java
+END
+BinaryGISModelReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/maxent/io/BinaryGISModelReader.java
+END
+ObjectGISModelReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/maxent/io/ObjectGISModelReader.java
+END
+OldFormatGISModelReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/maxent/io/OldFormatGISModelReader.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/maxent/io/package.html
+END

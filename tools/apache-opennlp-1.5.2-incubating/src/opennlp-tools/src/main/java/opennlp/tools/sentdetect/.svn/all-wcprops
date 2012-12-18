@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1328284/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/sentdetect
+END
+DefaultEndOfSentenceScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/sentdetect/DefaultEndOfSentenceScanner.java
+END
+SentenceSample.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1328284/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/sentdetect/SentenceSample.java
+END
+AbstractEndOfSentenceScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/sentdetect/AbstractEndOfSentenceScanner.java
+END
+SentenceDetectorME.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1292815/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/sentdetect/SentenceDetectorME.java
+END
+SentenceDetectorEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/sentdetect/SentenceDetectorEvaluator.java
+END
+SentenceSampleStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/sentdetect/SentenceSampleStream.java
+END
+SDContextGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/sentdetect/SDContextGenerator.java
+END
+SDEventStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/sentdetect/SDEventStream.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/sentdetect/package-info.java
+END
+SentenceModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1292820/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/sentdetect/SentenceModel.java
+END
+SentenceDetectorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1292821/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/sentdetect/SentenceDetectorFactory.java
+END
+SDCrossValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1292637/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/sentdetect/SDCrossValidator.java
+END
+DefaultSDContextGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1302140/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/sentdetect/DefaultSDContextGenerator.java
+END
+EmptyLinePreprocessorStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/sentdetect/EmptyLinePreprocessorStream.java
+END
+EndOfSentenceScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/sentdetect/EndOfSentenceScanner.java
+END
+SentenceDetectorEvaluationMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/sentdetect/SentenceDetectorEvaluationMonitor.java
+END
+SentenceDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/sentdetect/SentenceDetector.java
+END

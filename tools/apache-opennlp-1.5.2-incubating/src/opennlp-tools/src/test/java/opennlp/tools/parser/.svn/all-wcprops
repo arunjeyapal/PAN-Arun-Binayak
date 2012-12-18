@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/java/opennlp/tools/parser
+END
+PosSampleStreamTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/java/opennlp/tools/parser/PosSampleStreamTest.java
+END
+ChunkSampleStreamTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/java/opennlp/tools/parser/ChunkSampleStreamTest.java
+END
+ParseSampleStreamTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/java/opennlp/tools/parser/ParseSampleStreamTest.java
+END
+ParseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/java/opennlp/tools/parser/ParseTest.java
+END
+ParserTestUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/java/opennlp/tools/parser/ParserTestUtil.java
+END

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/asf/!svn/ver/1298371/opennlp/trunk/opennlp-uima/descriptors
+END
+PosTaggerTrainer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/descriptors/PosTaggerTrainer.xml
+END
+MoneyNameFinder.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/descriptors/MoneyNameFinder.xml
+END
+SentenceDetectorTrainer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/descriptors/SentenceDetectorTrainer.xml
+END
+SimpleTokenizer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/descriptors/SimpleTokenizer.xml
+END
+PersonNameFinderTrainer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1298371/opennlp/trunk/opennlp-uima/descriptors/PersonNameFinderTrainer.xml
+END
+ChunkerTrainer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/descriptors/ChunkerTrainer.xml
+END
+OpenNlpTextAnalyzer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/descriptors/OpenNlpTextAnalyzer.xml
+END
+TypeSystem.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/descriptors/TypeSystem.xml
+END
+TimeNameFinder.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/descriptors/TimeNameFinder.xml
+END
+PosTagger.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/descriptors/PosTagger.xml
+END
+Parser.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/descriptors/Parser.xml
+END
+OrganizationNameFinder.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/descriptors/OrganizationNameFinder.xml
+END
+SentenceDetector.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/descriptors/SentenceDetector.xml
+END
+PersonNameFinder.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/descriptors/PersonNameFinder.xml
+END
+Chunker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/descriptors/Chunker.xml
+END
+TokenizerTrainer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/descriptors/TokenizerTrainer.xml
+END
+LocationNameFinder.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/descriptors/LocationNameFinder.xml
+END
+PercentageNameFinder.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/descriptors/PercentageNameFinder.xml
+END
+DateNameFinder.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/descriptors/DateNameFinder.xml
+END
+Tokenizer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/descriptors/Tokenizer.xml
+END

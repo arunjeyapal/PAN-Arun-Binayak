@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/src/main/java/opennlp/uima/sentdetect
+END
+SentenceModelResourceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/src/main/java/opennlp/uima/sentdetect/SentenceModelResourceImpl.java
+END
+AbstractSentenceDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/src/main/java/opennlp/uima/sentdetect/AbstractSentenceDetector.java
+END
+SentenceDetectorTrainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/src/main/java/opennlp/uima/sentdetect/SentenceDetectorTrainer.java
+END
+SentenceModelResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/src/main/java/opennlp/uima/sentdetect/SentenceModelResource.java
+END
+SentenceDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/src/main/java/opennlp/uima/sentdetect/SentenceDetector.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/src/main/java/opennlp/uima/sentdetect/package.html
+END

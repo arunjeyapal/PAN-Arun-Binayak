@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1328283/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/tokenizer
+END
+TrainingParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1304680/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/tokenizer/TrainingParams.java
+END
+TokenizerConverterTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/tokenizer/TokenizerConverterTool.java
+END
+CommandLineTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/tokenizer/CommandLineTokenizer.java
+END
+SimpleTokenizerTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/tokenizer/SimpleTokenizerTool.java
+END
+TokenizerModelLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1308904/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/tokenizer/TokenizerModelLoader.java
+END
+DetokenizationDictionaryLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/tokenizer/DetokenizationDictionaryLoader.java
+END
+DictionaryDetokenizerTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1328283/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/tokenizer/DictionaryDetokenizerTool.java
+END
+TokenEvaluationErrorListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/tokenizer/TokenEvaluationErrorListener.java
+END
+TokenizerCrossValidatorTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1304680/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/tokenizer/TokenizerCrossValidatorTool.java
+END
+TokenizerMETool.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/tokenizer/TokenizerMETool.java
+END
+TokenizerMEEvaluatorTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/tokenizer/TokenizerMEEvaluatorTool.java
+END
+TokenizerTrainerTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1304680/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/tokenizer/TokenizerTrainerTool.java
+END

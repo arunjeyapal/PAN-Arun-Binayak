@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1335006/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/parser
+END
+ParserTrainerTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/parser/ParserTrainerTool.java
+END
+TrainingParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/parser/TrainingParams.java
+END
+CheckModelUpdaterTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/parser/CheckModelUpdaterTool.java
+END
+ParserConverterTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1335006/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/parser/ParserConverterTool.java
+END
+BuildModelUpdaterTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/parser/BuildModelUpdaterTool.java
+END
+ModelUpdaterTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/parser/ModelUpdaterTool.java
+END
+ParserModelLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1308905/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/parser/ParserModelLoader.java
+END
+TaggerModelReplacerTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/parser/TaggerModelReplacerTool.java
+END
+ParserTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/parser/ParserTool.java
+END

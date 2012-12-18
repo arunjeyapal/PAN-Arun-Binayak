@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/resources/opennlp/tools/util/featuregen
+END
+FeatureGeneratorConfigWithUnkownElement.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/resources/opennlp/tools/util/featuregen/FeatureGeneratorConfigWithUnkownElement.xml
+END
+TestFeatureGeneratorConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/resources/opennlp/tools/util/featuregen/TestFeatureGeneratorConfig.xml
+END
+CustomClassLoading.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/resources/opennlp/tools/util/featuregen/CustomClassLoading.xml
+END

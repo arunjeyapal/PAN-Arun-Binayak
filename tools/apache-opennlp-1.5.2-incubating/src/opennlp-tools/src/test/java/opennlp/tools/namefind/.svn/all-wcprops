@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1302767/opennlp/trunk/opennlp-tools/src/test/java/opennlp/tools/namefind
+END
+DictionaryNameFinderEvaluatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1302767/opennlp/trunk/opennlp-tools/src/test/java/opennlp/tools/namefind/DictionaryNameFinderEvaluatorTest.java
+END
+NameSampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/java/opennlp/tools/namefind/NameSampleTest.java
+END
+RegexNameFinderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/java/opennlp/tools/namefind/RegexNameFinderTest.java
+END
+NameFinderEventStreamTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/java/opennlp/tools/namefind/NameFinderEventStreamTest.java
+END
+NameSampleDataStreamTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1302767/opennlp/trunk/opennlp-tools/src/test/java/opennlp/tools/namefind/NameSampleDataStreamTest.java
+END
+TokenNameFinderCrossValidatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1300563/opennlp/trunk/opennlp-tools/src/test/java/opennlp/tools/namefind/TokenNameFinderCrossValidatorTest.java
+END
+NameFinderMETest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/java/opennlp/tools/namefind/NameFinderMETest.java
+END
+TokenNameFinderEvaluatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/java/opennlp/tools/namefind/TokenNameFinderEvaluatorTest.java
+END
+DictionaryNameFinderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1301855/opennlp/trunk/opennlp-tools/src/test/java/opennlp/tools/namefind/DictionaryNameFinderTest.java
+END

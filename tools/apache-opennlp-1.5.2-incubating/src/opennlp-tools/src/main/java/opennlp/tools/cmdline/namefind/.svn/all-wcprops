@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1331348/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/namefind
+END
+TokenNameFinderConverterTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/namefind/TokenNameFinderConverterTool.java
+END
+TrainingParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/namefind/TrainingParams.java
+END
+TokenNameFinderModelLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1308904/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/namefind/TokenNameFinderModelLoader.java
+END
+TokenNameFinderDetailedFMeasureListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/namefind/TokenNameFinderDetailedFMeasureListener.java
+END
+CensusDictionaryCreatorTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/namefind/CensusDictionaryCreatorTool.java
+END
+TokenNameFinderCrossValidatorTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/namefind/TokenNameFinderCrossValidatorTool.java
+END
+TokenNameFinderTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/namefind/TokenNameFinderTool.java
+END
+NameEvaluationErrorListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/namefind/NameEvaluationErrorListener.java
+END
+TokenNameFinderEvaluatorTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/namefind/TokenNameFinderEvaluatorTool.java
+END
+TokenNameFinderTrainerTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1331348/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/namefind/TokenNameFinderTrainerTool.java
+END

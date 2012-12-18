@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/src/main/java/opennlp/uima/util
+END
+OpenNlpAnnotatorProcessException.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/src/main/java/opennlp/uima/util/OpenNlpAnnotatorProcessException.java
+END
+AnnotationIteratorPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/src/main/java/opennlp/uima/util/AnnotationIteratorPair.java
+END
+CasConsumerUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/src/main/java/opennlp/uima/util/CasConsumerUtil.java
+END
+AnnotationComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/src/main/java/opennlp/uima/util/AnnotationComparator.java
+END
+AnnotatorUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/src/main/java/opennlp/uima/util/AnnotatorUtil.java
+END
+AnnotationComboIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/src/main/java/opennlp/uima/util/AnnotationComboIterator.java
+END
+ExceptionMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/src/main/java/opennlp/uima/util/ExceptionMessages.java
+END
+OpennlpUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/src/main/java/opennlp/uima/util/OpennlpUtil.java
+END
+UimaUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/src/main/java/opennlp/uima/util/UimaUtil.java
+END
+AbstractModelResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/src/main/java/opennlp/uima/util/AbstractModelResource.java
+END
+SampleTraceStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/src/main/java/opennlp/uima/util/SampleTraceStream.java
+END
+ContainingConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-uima/src/main/java/opennlp/uima/util/ContainingConstraint.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/samples/sports
+END
+football.test
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/samples/sports/football.test
+END
+gameLocation.test
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/samples/sports/gameLocation.test
+END
+realTeam.dat
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/samples/sports/realTeam.dat
+END
+CreateModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/samples/sports/CreateModel.java
+END
+realTeam.test
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/samples/sports/realTeam.test
+END
+football.dat
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/samples/sports/football.dat
+END
+gameLocation.dat
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/samples/sports/gameLocation.dat
+END
+Predict.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/samples/sports/Predict.java
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/samples/sports/README
+END

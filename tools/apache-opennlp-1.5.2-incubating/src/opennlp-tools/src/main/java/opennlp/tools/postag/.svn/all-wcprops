@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1342722/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/postag
+END
+TagDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/postag/TagDictionary.java
+END
+POSSample.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1294175/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/postag/POSSample.java
+END
+DefaultPOSSequenceValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1340809/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/postag/DefaultPOSSequenceValidator.java
+END
+POSSampleSequenceStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1294178/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/postag/POSSampleSequenceStream.java
+END
+POSTaggerCrossValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1340809/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/postag/POSTaggerCrossValidator.java
+END
+MutableTagDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1335722/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/postag/MutableTagDictionary.java
+END
+POSTaggerME.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1342722/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/postag/POSTaggerME.java
+END
+POSContextGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/postag/POSContextGenerator.java
+END
+POSTaggerTrainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/postag/POSTaggerTrainer.java
+END
+POSSampleEventStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1294178/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/postag/POSSampleEventStream.java
+END
+POSModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1341700/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/postag/POSModel.java
+END
+DefaultPOSContextGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/postag/DefaultPOSContextGenerator.java
+END
+POSTaggerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1340809/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/postag/POSTaggerFactory.java
+END
+POSEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1294182/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/postag/POSEvaluator.java
+END
+POSDictionaryWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/postag/POSDictionaryWriter.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/postag/package-info.java
+END
+WordTagSampleStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/postag/WordTagSampleStream.java
+END
+POSDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1335722/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/postag/POSDictionary.java
+END
+POSTaggerEvaluationMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/postag/POSTaggerEvaluationMonitor.java
+END
+POSTagger.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1294177/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/postag/POSTagger.java
+END

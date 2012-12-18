@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1292637/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/sentdetect
+END
+SentenceDetectorEvaluatorTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/sentdetect/SentenceDetectorEvaluatorTool.java
+END
+TrainingParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1292637/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/sentdetect/TrainingParams.java
+END
+SentenceDetectorTrainerTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1292637/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/sentdetect/SentenceDetectorTrainerTool.java
+END
+SentenceDetectorConverterTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/sentdetect/SentenceDetectorConverterTool.java
+END
+SentenceDetectorCrossValidatorTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1292637/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/sentdetect/SentenceDetectorCrossValidatorTool.java
+END
+SentenceDetectorTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/sentdetect/SentenceDetectorTool.java
+END
+SentenceEvaluationErrorListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/sentdetect/SentenceEvaluationErrorListener.java
+END
+SentenceModelLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/sentdetect/SentenceModelLoader.java
+END

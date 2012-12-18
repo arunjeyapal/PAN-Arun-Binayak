@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1308924/opennlp/trunk/opennlp-tools/src/test/resources/opennlp/tools/tokenize
+END
+latin-detokenizer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1308924/opennlp/trunk/opennlp-tools/src/test/resources/opennlp/tools/tokenize/latin-detokenizer.xml
+END
+token.train
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/resources/opennlp/tools/tokenize/token.train
+END

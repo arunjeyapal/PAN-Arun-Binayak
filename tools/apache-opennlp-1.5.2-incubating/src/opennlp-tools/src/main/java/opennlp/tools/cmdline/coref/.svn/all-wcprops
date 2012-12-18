@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1309277/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/coref
+END
+TrainingParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1308902/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/coref/TrainingParams.java
+END
+CoreferencerTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1307400/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/coref/CoreferencerTool.java
+END
+CoreferencerTrainerTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1308902/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/coref/CoreferencerTrainerTool.java
+END
+CoreferenceConverterTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1309277/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/cmdline/coref/CoreferenceConverterTool.java
+END

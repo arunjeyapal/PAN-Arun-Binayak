@@ -1,0 +1,107 @@
+10
+
+dir
+1346421
+https://svn.apache.org/repos/asf/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools
+https://svn.apache.org/repos/asf
+
+
+
+2012-05-25T16:46:50.973237Z
+1342722
+colen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+namefind
+dir
+
+lang
+dir
+
+tokenize
+dir
+
+parser
+dir
+
+postag
+dir
+
+doccat
+dir
+
+coref
+dir
+
+chunker
+dir
+
+sentdetect
+dir
+
+ngram
+dir
+
+package-info.java
+file
+
+
+
+
+2012-06-05T15:27:55.485870Z
+5f476109decb70447f5de8799250e4ee
+2011-11-07T19:07:33.039602Z
+1198880
+joern
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+883
+
+dictionary
+dir
+
+formats
+dir
+
+cmdline
+dir
+
+stemmer
+dir
+
+util
+dir
+

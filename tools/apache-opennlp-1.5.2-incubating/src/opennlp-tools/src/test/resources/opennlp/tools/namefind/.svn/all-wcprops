@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1302766/opennlp/trunk/opennlp-tools/src/test/resources/opennlp/tools/namefind
+END
+OnlyWithEntitiesWithTypes.train
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/resources/opennlp/tools/namefind/OnlyWithEntitiesWithTypes.train
+END
+html1.train
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/resources/opennlp/tools/namefind/html1.train
+END
+voa1.train
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/resources/opennlp/tools/namefind/voa1.train
+END
+AnnotatedSentences.txt
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1302766/opennlp/trunk/opennlp-tools/src/test/resources/opennlp/tools/namefind/AnnotatedSentences.txt
+END
+voa2.train
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/resources/opennlp/tools/namefind/voa2.train
+END
+AnnotatedSentencesWithTypes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/resources/opennlp/tools/namefind/AnnotatedSentencesWithTypes.txt
+END
+OnlyWithNames.train
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/resources/opennlp/tools/namefind/OnlyWithNames.train
+END
+OnlyWithNamesWithTypes.train
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/resources/opennlp/tools/namefind/OnlyWithNamesWithTypes.train
+END

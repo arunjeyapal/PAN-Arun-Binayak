@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1302142/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/eval
+END
+EvaluationMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/eval/EvaluationMonitor.java
+END
+Mean.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/eval/Mean.java
+END
+Evaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/eval/Evaluator.java
+END
+CrossValidationPartitioner.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1302142/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/eval/CrossValidationPartitioner.java
+END
+FMeasure.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/eval/FMeasure.java
+END

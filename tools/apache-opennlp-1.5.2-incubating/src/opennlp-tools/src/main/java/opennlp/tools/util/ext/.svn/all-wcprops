@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1329664/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/ext
+END
+ExtensionLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1329578/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/ext/ExtensionLoader.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1329580/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/ext/package-info.java
+END
+ExtensionNotLoadedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1329578/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/ext/ExtensionNotLoadedException.java
+END
+OSGiExtensionLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1329664/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/ext/OSGiExtensionLoader.java
+END
+ExtensionServiceKeys.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1329578/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/util/ext/ExtensionServiceKeys.java
+END

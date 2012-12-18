@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1334920/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/parser
+END
+Cons.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/parser/Cons.java
+END
+Parse.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1334920/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/parser/Parse.java
+END
+AbstractBottomUpParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1334914/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/parser/AbstractBottomUpParser.java
+END
+ParserChunkerSequenceValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/parser/ParserChunkerSequenceValidator.java
+END
+HeadRules.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/parser/HeadRules.java
+END
+ParserModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/parser/ParserModel.java
+END
+Constituent.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/parser/Constituent.java
+END
+AbstractContextGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1334918/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/parser/AbstractContextGenerator.java
+END
+PosSampleStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1334918/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/parser/PosSampleStream.java
+END
+ParserFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/parser/ParserFactory.java
+END
+ChunkContextGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/parser/ChunkContextGenerator.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/parser/package-info.java
+END
+ParserEventTypeEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/parser/ParserEventTypeEnum.java
+END
+ChunkSampleStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1334918/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/parser/ChunkSampleStream.java
+END
+ParseSampleStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/parser/ParseSampleStream.java
+END
+Parser.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/parser/Parser.java
+END
+GapLabeler.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/parser/GapLabeler.java
+END
+AbstractParserEventStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1334920/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/parser/AbstractParserEventStream.java
+END
+ParserType.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/parser/ParserType.java
+END

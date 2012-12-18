@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1334940/opennlp/trunk/opennlp-tools/src/test/java/opennlp/tools/formats
+END
+ConllXPOSSampleStreamTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/java/opennlp/tools/formats/ConllXPOSSampleStreamTest.java
+END
+LeipzigDoccatSampleStreamTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/java/opennlp/tools/formats/LeipzigDoccatSampleStreamTest.java
+END
+NameFinderCensus90NameStreamTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/java/opennlp/tools/formats/NameFinderCensus90NameStreamTest.java
+END
+Conll02NameSampleStreamTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/java/opennlp/tools/formats/Conll02NameSampleStreamTest.java
+END
+Conll03NameSampleStreamTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/test/java/opennlp/tools/formats/Conll03NameSampleStreamTest.java
+END

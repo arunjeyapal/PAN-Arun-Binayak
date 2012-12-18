@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/test/java/opennlp/maxent
+END
+RealValueModelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/test/java/opennlp/maxent/RealValueModelTest.java
+END
+ScaleDoesntMatterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/test/java/opennlp/maxent/ScaleDoesntMatterTest.java
+END
+MaxentPrepAttachTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/test/java/opennlp/maxent/MaxentPrepAttachTest.java
+END

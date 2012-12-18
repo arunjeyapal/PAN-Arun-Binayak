@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/perceptron
+END
+PerceptronModelWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/perceptron/PerceptronModelWriter.java
+END
+PerceptronModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/perceptron/PerceptronModel.java
+END
+BinaryPerceptronModelWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/perceptron/BinaryPerceptronModelWriter.java
+END
+PerceptronModelReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/perceptron/PerceptronModelReader.java
+END
+PerceptronTrainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/perceptron/PerceptronTrainer.java
+END
+PlainTextPerceptronModelWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/perceptron/PlainTextPerceptronModelWriter.java
+END
+SimplePerceptronSequenceTrainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/perceptron/SimplePerceptronSequenceTrainer.java
+END
+BinaryPerceptronModelReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/perceptron/BinaryPerceptronModelReader.java
+END
+PlainTextPerceptronModelReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/perceptron/PlainTextPerceptronModelReader.java
+END
+SuffixSensitivePerceptronModelWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-maxent/src/main/java/opennlp/perceptron/SuffixSensitivePerceptronModelWriter.java
+END

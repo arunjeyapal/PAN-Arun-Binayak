@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1333908/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/formats/ad
+END
+ADSentenceSampleStreamFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/formats/ad/ADSentenceSampleStreamFactory.java
+END
+ADChunkSampleStreamFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/formats/ad/ADChunkSampleStreamFactory.java
+END
+ADNameSampleStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1309510/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/formats/ad/ADNameSampleStream.java
+END
+ADPOSSampleStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/formats/ad/ADPOSSampleStream.java
+END
+ADSentenceStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/formats/ad/ADSentenceStream.java
+END
+ADSentenceSampleStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/formats/ad/ADSentenceSampleStream.java
+END
+PortugueseContractionUtility.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/formats/ad/PortugueseContractionUtility.java
+END
+ADChunkSampleStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/formats/ad/ADChunkSampleStream.java
+END
+ADNameSampleStreamFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/formats/ad/ADNameSampleStreamFactory.java
+END
+ADTokenSampleStreamFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1333908/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/formats/ad/ADTokenSampleStreamFactory.java
+END
+ADPOSSampleStreamFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1245855/opennlp/trunk/opennlp-tools/src/main/java/opennlp/tools/formats/ad/ADPOSSampleStreamFactory.java
+END
