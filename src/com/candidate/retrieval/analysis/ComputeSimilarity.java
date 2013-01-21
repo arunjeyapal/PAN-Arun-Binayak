@@ -122,8 +122,8 @@ public class ComputeSimilarity {
 			throws IOException, ParseException, EOFException,
 			NullPointerException, InvocationTargetException {
 		JsonInterpreter jp = new JsonInterpreter();
-		HashMap<String, ArrayList<JSONdata>> all_data = 
-				new HashMap<String, ArrayList<JSONdata>>();
+		HashMap<String, ArrayList<JSONdata>> all_data = new 
+				HashMap<String, ArrayList<JSONdata>>();
 		for (File jsonfile : filelistJSON) {
 			String fileid = jsonfile.toString().split("suspicious-document")[1]
 					.split("\\.")[0];
@@ -144,7 +144,8 @@ public class ComputeSimilarity {
 					if (jp.getTotalResultCount(valJson) <= 0)
 						continue;
 
-					String first = "http://webis15.medien.uni-weimar.de/chatnoir/clueweb?id=";
+					String first = "http://webis15.medien.uni-weimar.de/"
+							+"chatnoir/clueweb?id=";
 					String last = "&token=7eb96d7390b5f76d6fc4ffb175eaedac";
 					for (String long_data : jp.getLongID(valJson)) {
 						// Reduces the number of server accesses
@@ -162,7 +163,7 @@ public class ComputeSimilarity {
 						String url = sb.append(first)
 								.append(long_data.split("#")[1]).append(last)
 								.append(fileid).toString();
-						System.out.println(long_data + " Query: " + url);
+						System.out.format("%s%s %s", long_data, " Query:", url);
 						GetResponse gr = new GetResponse(new URL(url));
 						String resp = gr.returnResponse();
 						// fw.write(resp);
@@ -214,10 +215,11 @@ public class ComputeSimilarity {
 				.getComparisonScore(getSuspiciousFileGrams(ngram),
 						getCandidateFileGrams(ngram));
 		String first = "http://webis15.medien.uni-weimar.de/chatnoir/clueweb?id=";
-		String last = "&token=525885a76c1a47d56987b1c87edbb2f9";
+		String last = "&token=7eb96d7390b5f76d6fc4ffb175eaedac";
 		for (String documents : all_scores.keySet()) {
 			FileWriter fw = new FileWriter(new File(documents + ".res"));
 			TreeMap<String, Double> sorted_map = sort(all_scores.get(documents));
+			System.out.println(sorted_map);
 			System.out.println(documents + " :");
 			// int threshold = 10, i=0;
 			for (String key : sorted_map.keySet()) {
@@ -226,7 +228,8 @@ public class ComputeSimilarity {
 						.append(first).append(key).append(last)
 						.append(documents.split("suspicious-document")[1])
 						.append("\n").toString();
-				System.out.println("\t" + key + " : " + sorted_map.get(key));
+				System.out.format("\t%s:%s", key, sorted_map.get(key));
+				// System.out.println("\t" + key + " : " + sorted_map.get(key));
 				fw.write(toWrite);
 			}
 			fw.close();
@@ -263,12 +266,20 @@ public class ComputeSimilarity {
 		}
 	}
 
-	public static void main(String s[]) throws IOException, ParseException {
-		ComputeSimilarity cs = new ComputeSimilarity(s[0], s[1]);
-		try {
-			cs.similarity(5);
-		} catch (NullPointerException | InvocationTargetException e) {
-			e.printStackTrace();
+	public static void main(String args[]) throws IOException, ParseException {
+		if (args.length == 2) {
+			ComputeSimilarity cs = new ComputeSimilarity(args[0], args[1]);
+			try {
+				cs.similarity(5);
+			} catch (NullPointerException | InvocationTargetException e) {
+				e.printStackTrace();
+			}
+		} else {
+			System.err
+					.println("Unexpected number of commandline arguments.\n"
+							+ "Usage: java -jar SimilatiryComparison.jar {Directo"
+							+ "ry where json files are stored} {Directory where s"
+							+"uspicious text files are stored}\n");
 		}
 	}
 }

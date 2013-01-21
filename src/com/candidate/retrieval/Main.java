@@ -70,7 +70,8 @@ public class Main {
 				/**
 				 * File top store the search results
 				 */
-				File newFile = new File(dest + files.getName() + ".json");
+				String dest_file = String.format("%s%s%s", dest, files.getName(), ".json");
+				File newFile = new File(dest_file);
 				String fileid = files.getName().split("suspicious-document")[1]
 						.split("\\.")[0];
 				String searchResult;

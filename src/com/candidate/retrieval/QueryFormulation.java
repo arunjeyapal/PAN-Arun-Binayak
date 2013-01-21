@@ -63,7 +63,7 @@ public class QueryFormulation {
 			}
 		}
 
-		sb.append("&resultlength=10&token=525885a76c1a47d56987b1c87edbb2f9");
+		sb.append("&resultlength=10&token=7eb96d7390b5f76d6fc4ffb175eaedac");
 		return sb.toString(); //return query
 	}
 
@@ -104,7 +104,7 @@ public class QueryFormulation {
 			}
 		}
 
-		sb.append("&resultlength=10&token=525885a76c1a47d56987b1c87edbb2f9").append(fileid);
+		sb.append("&resultlength=10&token=7eb96d7390b5f76d6fc4ffb175eaedac").append(fileid);
 		return sb.toString(); //return query
 	}
 }
