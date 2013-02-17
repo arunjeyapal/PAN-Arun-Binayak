@@ -31,7 +31,7 @@ public class GreedyStringTiling {
 	 * @param threshold
 	 * @return 
 	 */
-	public static PlagResult run(String s1, String s2, int mML, float threshold) {
+	public PlagResult run(String s1, String s2, int mML, float threshold) {
 		if (mML < 1)
 			System.err
 			.println("OutOfRangeError: minimum Matching Length mML needs to be greater than 0");
@@ -420,6 +420,11 @@ public class GreedyStringTiling {
 	}
 
 	public static void main(String s[]){
-		run("with Hash table entries Hash table entries has Arun name is here, Arun name is here with Hash table entries Arun how is arun","Hash table entries has Arun name is here, Arun name is here with Hash table entries Arun how is arun Arun name is here with Hash table entries",2,(float)0.5);	
+		GreedyStringTiling gst = new GreedyStringTiling();
+		String comp1 = "with Hash table entries Hash table entries has Arun name is here, Arun name is here with Hash table entries Arun how is arun";
+		String comp2 = "Hash table entries has Arun name is here, Arun name is here with Hash table entries Arun how is arun Arun name is here with Hash table entries";
+		PlagResult val = gst.run(comp1, comp2, 2, (float)0.5);
+		for (MatchVals tiles:val.getTiles())
+			System.out.println(tiles.length+":"+tiles.patternPostion+":"+tiles.textPosition);
 	}
 }
