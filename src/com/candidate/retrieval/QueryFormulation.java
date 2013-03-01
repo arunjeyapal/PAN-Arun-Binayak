@@ -22,7 +22,9 @@ public class QueryFormulation {
 	 * Initialize the default query interface, for which the request is made
 	 * to http://webis15.medien.uni-weimar.de/chatnoir/json?query=
 	 */
-	public QueryFormulation(){
+	public static String token;
+	public QueryFormulation(String token){
+		this.token = token;
 		String query = "http://webis15.medien.uni-weimar.de/chatnoir/json?query=";
 		sb.append(query);
 	}	
@@ -63,7 +65,7 @@ public class QueryFormulation {
 			}
 		}
 
-		sb.append("&resultlength=10&token=7eb96d7390b5f76d6fc4ffb175eaedac");
+		sb.append("&resultlength=10&token="+token);
 		return sb.toString(); //return query
 	}
 
@@ -104,7 +106,7 @@ public class QueryFormulation {
 			}
 		}
 
-		sb.append("&resultlength=10&token=7eb96d7390b5f76d6fc4ffb175eaedac").append(fileid);
+		sb.append("&resultlength=10&token="+token);
 		return sb.toString(); //return query
 	}
 }

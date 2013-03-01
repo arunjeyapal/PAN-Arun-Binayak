@@ -32,6 +32,8 @@ public class ComputeSimilarity {
 	ArrayList<File> filelistJSON = new ArrayList<File>();
 	ArrayList<File> filelistSuspicious = new ArrayList<File>();
 	PorterStemmer pm = new PorterStemmer();
+	String token;
+	String dest_directory;
 
 	/**
 	 * Constructor initializes (extracts the files from the given directories)
@@ -39,10 +41,14 @@ public class ComputeSimilarity {
 	 * 
 	 * @param JSONdirectory
 	 * @param Sus_directory
+	 * @param token
+	 * @param dest_directory 
 	 */
-	public ComputeSimilarity(String JSONdirectory, String Sus_directory) {
+	public ComputeSimilarity(String JSONdirectory, String Sus_directory, String token, String dest_directory) {
 		this.filelistJSON = FileUtil.getFilelist(JSONdirectory, "json");
 		this.filelistSuspicious = FileUtil.getFilelist(Sus_directory, "txt");
+		this.token = token;
+		this.dest_directory = dest_directory;
 	}
 
 	/**
@@ -215,9 +221,13 @@ public class ComputeSimilarity {
 				.getComparisonScore(getSuspiciousFileGrams(ngram),
 						getCandidateFileGrams(ngram));
 		String first = "http://webis15.medien.uni-weimar.de/chatnoir/clueweb?id=";
-		String last = "&token=7eb96d7390b5f76d6fc4ffb175eaedac";
+		String last = "&token="+token;
 		for (String documents : all_scores.keySet()) {
-			FileWriter fw = new FileWriter(new File(documents + ".res"));
+			FileWriter fw;
+			if (dest_directory.endsWith("/"))
+				fw = new FileWriter(new File(dest_directory+documents + ".res"));
+			else
+				fw = new FileWriter(new File(dest_directory+"/"+documents + ".res"));
 			TreeMap<String, Double> sorted_map = sort(all_scores.get(documents));
 			System.out.println(sorted_map);
 			System.out.println(documents + " :");
@@ -267,8 +277,8 @@ public class ComputeSimilarity {
 	}
 
 	public static void main(String args[]) throws IOException, ParseException {
-		if (args.length == 2) {
-			ComputeSimilarity cs = new ComputeSimilarity(args[0], args[1]);
+		if (args.length == 4) {
+			ComputeSimilarity cs = new ComputeSimilarity(args[0], args[1], args[2], args[3]);
 			try {
 				cs.similarity(5);
 			} catch (NullPointerException | InvocationTargetException e) {
@@ -279,7 +289,8 @@ public class ComputeSimilarity {
 					.println("Unexpected number of commandline arguments.\n"
 							+ "Usage: java -jar SimilatiryComparison.jar {Directo"
 							+ "ry where json files are stored} {Directory where s"
-							+"uspicious text files are stored}\n");
+							+"uspicious text files are stored} {Token} " +
+							"{destination directory} \n");
 		}
 	}
 }

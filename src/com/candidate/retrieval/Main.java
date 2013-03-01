@@ -30,7 +30,7 @@ public class Main {
 	 */
 	public static void main(String[] args) throws IOException, ParseException {
 
-		if (args.length == 2) {
+		if (args.length == 3) {
 			/**
 			 * All Initializations
 			 */
@@ -50,6 +50,8 @@ public class Main {
 				dest = args[1];
 			else
 				dest = args[1] + "/";
+			
+			String token = args[2];
 
 			ArrayList<File> filelist = FileUtil.getFilelist(src, "txt");
 
@@ -103,7 +105,7 @@ public class Main {
 				HashSet<String> resultset = new HashSet<String>();
 				for (String sent : paragraphs) {
 					searchResult = ExecFlow.systemFlow(sent, tk, pos, stoptag,
-							doc_wordtags, fileid, false);
+							doc_wordtags, false, token);
 					if (!resultset.contains(searchResult))
 						ps.print(searchResult);
 				}
@@ -113,8 +115,10 @@ public class Main {
 
 		} else {
 			System.err.println("Unexpected number of commandline arguments.\n"
-					+ "Usage: java -jar DocumentRetrieval.jar {Directo"
-					+ "ry where html files are stored} {destination folder}\n");
+					+ "Usage: java -jar SourceRetrieval.jar {Directo"
+					+ "ry where txt files are stored - Susp-Dir} " +
+					"{destination folder - Out-dir} " +
+					"{token}\n");
 		}
 	}
 }
