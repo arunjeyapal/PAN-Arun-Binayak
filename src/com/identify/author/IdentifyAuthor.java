@@ -26,7 +26,7 @@ public class IdentifyAuthor {
 						String filename = each_file.getName();
 						ProcessData pd = new ProcessData(each_file);
 						if (filename.equals("unknown.txt")) {
-							for (String strs : pd.getNCharCount(3)) {
+							for (String strs : pd.getNCharCount(4)) {
 								if (unknown_count.containsKey(strs)) {
 									int value = unknown_count.get(strs);
 									unknown_count.put(strs, ++value);
@@ -34,7 +34,7 @@ public class IdentifyAuthor {
 									unknown_count.put(strs, 1);
 							}
 						} else {
-							for (String strs : pd.getNCharCount(3)) {
+							for (String strs : pd.getNCharCount(4)) {
 								if (known_count.containsKey(strs)) {
 									int value = known_count.get(strs);
 									known_count.put(strs, ++value);

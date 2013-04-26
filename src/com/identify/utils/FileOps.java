@@ -1,9 +1,9 @@
 package com.identify.utils;
 
-import java.io.BufferedReader;
+//import java.io.BufferedReader;
 import java.io.File;
 import java.io.IOException;
-import java.io.InputStreamReader;
+//import java.io.InputStreamReader;
 import java.util.Scanner;
 
 /**
@@ -40,22 +40,22 @@ public class FileOps {
 	public static boolean createDirectory(File file) {
 		// Delete Directory if alreday exists
 		if (file.exists()) {
-			System.out
-					.print("\nDirectory already exists \n \t"
-							+"Do you want to delete the diretory (y/n):");
-			BufferedReader in = new BufferedReader(new InputStreamReader(
-					System.in));
-			try {
-				String val = in.readLine();
-				if (val.toLowerCase().equals("y")
-						|| val.toLowerCase().equals("yes")) {
-					deleteDirectory(file);
-				} else {
-					return true;
+//			System.out
+//					.print("\nDirectory already exists \n \t"
+//							+"Do you want to delete the diretory (y/n):");
+//			BufferedReader in = new BufferedReader(new InputStreamReader(
+//					System.in));
+//			try {
+			String val = "YES";
+			if (val.toLowerCase().equals("y")
+					|| val.toLowerCase().equals("yes")) {
+				deleteDirectory(file);
+			} else {
+				return true;
 				}
-			} catch (IOException e) {
-				e.printStackTrace();
-			}
+//			} catch (IOException e) {
+//				e.printStackTrace();
+//			}
 		}
 		boolean status = file.mkdirs();
 		if (status)

@@ -51,9 +51,9 @@ public class ClassSelection {
 		try {
 			FileWriter fw = new FileWriter(file_to_write);
 			for(String key: keys){
-				int val = 0;
+				String val = "N";
 				if (results.get(key) == true)
-					val = 1;
+					val = "Y";
 				fw.write(key+" "+val+"\n");
 			}
 			fw.close();
